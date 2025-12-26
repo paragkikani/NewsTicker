@@ -2,7 +2,7 @@
 
 
 A flexible and easy-to-use news ticker system for Unity with TextMeshPro support, featuring smooth animations, customizable positioning, and event-driven callbacks.
-
+## Download [Unitypackage](https://github.com/paragkikani/NewsTicker/releases/tag/newsHeadline)
 ## Features
 
 https://github.com/user-attachments/assets/78b6ac23-63fc-43ef-aa80-a33fd2d2a741
