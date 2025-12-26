@@ -1,8 +1,11 @@
 # Unity News Ticker System
 
+
 A flexible and easy-to-use news ticker system for Unity with TextMeshPro support, featuring smooth animations, customizable positioning, and event-driven callbacks.
 
 ## Features
+
+https://github.com/user-attachments/assets/78b6ac23-63fc-43ef-aa80-a33fd2d2a741
 
 ✨ **Smooth Coroutine-Based Animations** - No Update overhead, efficient performance  
 🎯 **Customizable Start & End Points** - Full control over text movement path  
