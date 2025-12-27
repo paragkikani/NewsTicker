@@ -1,0 +1,16 @@
+You can drag prefab direct in canvas from NewsTicker/NewsTicker.prefab
+
+💻 CODE EXAMPLE
+
+// Simple usage
+ticker.ShowTicker("Breaking News!");
+
+// With events
+ticker.OnTickerComplete.AddListener(() => {
+    Debug.Log("Animation complete!");
+});
+
+// Custom timing
+ticker.SetDurations(fadeIn: 0.5f, move: 5f, hold: 2f, fadeOut: 0.5f);
+
+
